@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @minhbcnn
+- 👀 I’m interested in application developing
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: the boy
+- ⚡ Fun fact: I am only 12
